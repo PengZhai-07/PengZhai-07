@@ -3,6 +3,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+![Visitor Count](https://profile-counter.glitch.me/PengZhai-07/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PengZhai-07&layout=compact)](https://github.com/PengZhai-07/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=PengZhai-07&show_icons=true&theme=tokyonight)
 
 ### <div align="center">I'm Peng Zhai, a full-time graduate student </div>  
   
